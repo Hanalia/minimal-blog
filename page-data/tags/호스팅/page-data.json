@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
     "path": "/tags/호스팅",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/github-pages-호스팅-이해하기","title":"Github pages 호스팅 이해하기","date":"10.05.2022","excerpt":"Github에서 호스팅할 수 있는 페이지 종류는 2가지 User Site : 계정 1개에 대응되는 사이트 1개 계정이 Hanalia라고 한다면, Site URL은 hanalia.github.io 계정 1개당 사이트는 무조건 1개 User Site…","timeToRead":1,"description":null,"tags":[{"name":"github","slug":"github"},{"name":"블로그","slug":"블로그"},{"name":"호스팅","slug":"호스팅"}]}]}},"pageContext":{"slug":"호스팅","name":"호스팅","formatString":"DD.MM.YYYY"}},
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/github-pages-호스팅-이해하기","title":"Github pages 호스팅 이해하기","date":"10.05.2022","excerpt":"Github에서 호스팅할 수 있는 페이지 종류는 2가지 1) User Site : 계정 1개에 대응되는 사이트 1개 2) Project Site : Repository 1개에 대응되는 사이트 1개 github pages 호스팅과 관련된 npm…","timeToRead":1,"description":null,"tags":[{"name":"github","slug":"github"},{"name":"블로그","slug":"블로그"},{"name":"호스팅","slug":"호스팅"}]}]}},"pageContext":{"slug":"호스팅","name":"호스팅","formatString":"DD.MM.YYYY"}},
     "staticQueryHashes": ["2744905544","3090400250","318001574"]}
