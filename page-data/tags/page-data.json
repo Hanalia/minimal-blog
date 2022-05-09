@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx",
     "path": "/tags",
-    "result": {"data":{"allPost":{"group":[{"fieldValue":"Dark Arts","totalCount":1},{"fieldValue":"Highlight","totalCount":1},{"fieldValue":"Novel","totalCount":2},{"fieldValue":"Tutorial","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"allPost":{"group":[{"fieldValue":"React","totalCount":1},{"fieldValue":"github","totalCount":1},{"fieldValue":"개발","totalCount":1},{"fieldValue":"블로그","totalCount":1},{"fieldValue":"호스팅","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": ["2744905544","3090400250","318001574"]}
